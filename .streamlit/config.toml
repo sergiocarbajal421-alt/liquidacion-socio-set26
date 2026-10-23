@@ -1,0 +1,6 @@
+# Mismo color de acento en tema claro y oscuro; Streamlit sigue eligiendo el tema según el sistema
+[theme.light]
+primaryColor = "#2E86AB"
+
+[theme.dark]
+primaryColor = "#2E86AB"
